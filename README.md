@@ -1,2 +1,1 @@
-# koperasi
-Sistem koperasi sederhana
+Sistem koperasi dengan laravel
